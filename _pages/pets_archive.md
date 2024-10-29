@@ -1,5 +1,5 @@
 ---
-title: Who AM I
+title: About Me
 layout: collection
 permalink: /about/
 collection: pets

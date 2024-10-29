@@ -1,10 +1,9 @@
 ---
-layout: post
-title: 코드 블록 가져오기 글
+title: 코드 블록 가져오기 글 - Posts
+toc: true
 categories:	
     - Blog
 tags: 시작이다
-math: true
 date: 2024-10-28 14:35 +0900
 ---
 

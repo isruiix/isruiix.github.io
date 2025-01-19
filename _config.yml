@@ -296,6 +296,11 @@ tag_archive:
 portfolio_archive:
   type: liquid
   path: /portfolio/
+
+  collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

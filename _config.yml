@@ -289,10 +289,13 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /tech/
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+portfolio_archive:
+  type: liquid
+  path: /portfolio/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
